@@ -96,22 +96,6 @@
       "price": "54.35",
       "status": "3"
     },
-    "PBRM|26808|20261126|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "07:55 PM",
-      "date": "20261126",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "3"
-    },
-    "PBRM|26808|20261126|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "07:55 PM",
-      "date": "20261126",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
     "PVSR|30017|20261126|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "04:10 PM",
@@ -205,6 +189,22 @@
       "time": "10:30 PM",
       "date": "20261126",
       "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PBRM|26808|20261126|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:55 PM",
+      "date": "20261126",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PBRM|26808|20261126|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:55 PM",
+      "date": "20261126",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
